@@ -42,11 +42,12 @@ e. What is the difference between git and GitHub?
 
 f. What does git diff do?
 
-         Answer: Show changes between commits 
+         Answer: Show changes between commits, files or branches, its used to compare and decide which changes to keep or discard. 
 
 g. What is the main branch?
 
-         Answer: Is the default branch, it  receives all the accepted commits and merges and the one you, it used to be called "master"
+         Answer: It is the default branch, it  receives all the accepted commits made on different branches (through a Pull Request), 
+         it used to be called "master".
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
  
