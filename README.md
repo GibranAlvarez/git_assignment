@@ -1,10 +1,12 @@
 # Git Assignment - GibranAlvarez
 
 a. What is an issue?
-        Iitems created in a repository to plan, discuss and track work
+        
+        Answer:  Items created in a repository to plan, discuss and track work
 
 b. What is a pull request?
-        A proposal to merge a set of changes from one branch into another.
+
+        Answer: A proposal to merge a set of changes from one branch into another.
 
 c. How do I open up a pull request?
         1. On GitHub on the pull request tab, in this repository it would be in the following URL: https://github.com/GibranAlvarez/git/pulls,
@@ -34,18 +36,23 @@ d. Give me a step by step guide on how to add someone to your repository.
 		its an easier way if you have multiple users to add.
  
 e. What is the difference between git and GitHub?
-         GIT is an opensource version control tool and GitHub is a host service that stores git repositories	
+
+         Answer: GIT is an opensource version control tool and GitHub is a host service that stores git repositories	
 
 f. What does git diff do?
-         Show changes between commits 
+
+         Answer: Show changes between commits 
 
 g. What is the main branch?
-         Is the default branch, it  receives all the accepted commits and merges and the one you, it used to be called "master"
+
+         Answer: Is the default branch, it  receives all the accepted commits and merges and the one you, it used to be called "master"
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
-        No, commits should be pushed to a different branche from the main (good practice is making a branch for a specific task or change wanted), 
-        once that branch is created and changes done then a Pull Request is needed to request that those changes are 
-        added to the main branch. This is a better way to keep track of changes made without making any changes to the main branch.
+       Answer: 
+       No, commits should be pushed to a branch different from the main (good practice is making a branch for a specific task or change wanted), 
+        once that branch is created, changes done and pushed to it, then a Pull Request is needed to request that those changes are 
+        added to the main branch. This is a better way to keep track of changes without making any changes to the main branch.
         
         The way I see it is that the main branch has to always have "working" code (or at least the closest to the final prodcut), 
-        and branches are a way to filtering changes and making sure that the main branch is always on a "working" condition. 
+        and branches are a way to filtering changes and making sure that the main branch is always on a "working" condition, or 
+        to always have a point of depart to go back and start again if needed. 
