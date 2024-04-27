@@ -9,6 +9,7 @@ b. What is a pull request?
         Answer: A proposal to merge a set of changes from one branch into another.
 
 c. How do I open up a pull request?
+
         1. On GitHub on the pull request tab, in this repository it would be in the following URL: https://github.com/GibranAlvarez/git/pulls,
         2. then click on the green button called New Pull Request, 
         3. after that choose the base branch and the one with the changes, in this case they're base: "main" and compare: "assignment"
